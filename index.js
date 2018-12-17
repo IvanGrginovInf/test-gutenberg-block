@@ -17,7 +17,7 @@ const { RichText } = wp.editor;
 export default registerBlockType(
     'jsforwphowto/demo',
     {
-        title: __( 'Cool Demo Block', 'jsforwphowto' ),
+        title: __( 'Cool Demo Block 2', 'jsforwphowto' ),
         description: __( 'How to use the RichText component for building your own editable blocks.', 'jsforwphowto' ),
         category: 'common',
         icon: {
